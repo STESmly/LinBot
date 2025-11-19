@@ -1,0 +1,19 @@
+建议使用powershell
+本项目自带依赖，无需安装python
+
+版本说明
+python ：3.11.9
+
+使用方法
+
+通过bat（cmd）运行
+双击run.bat
+
+通过powershell运行
+右键run.ps1，点击使用powershell运行
+
+
+功能开发以及维护只有想学python的才知道该怎么做
+
+暂时是无成品QQ聊天交互的demo
+只完成了部分事件的日志适配和热重载功能
