@@ -1,6 +1,6 @@
 [project]
 name = "Linbot"
-version = "0.0.1"
+version = "0.0.2"
 description = "onebotv11机器人框架"
 authors = [
     {name = "STESmly", email = "3549337307@qq.com"},
@@ -29,3 +29,4 @@ license = {text = "MIT"}
 [build-system]
 requires = ["pdm-backend"]
 build-backend = "pdm.backend"
+
